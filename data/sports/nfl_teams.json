@@ -7,7 +7,7 @@
       "division": "East",
       "city": "Orchard Park",
       "state": "NY",
-      "stadium": "Ralph Wilson Stadium"
+      "stadium": "New Era Field"
     },
     {
       "name": "Miami Dolphins",
@@ -119,7 +119,7 @@
       "division": "West",
       "city": "Oakland",
       "state": "CA",
-      "stadium": "O.co Coliseum"
+      "stadium": "Oakland Alameda Coliseum"
     },
     {
       "name": "San Diego Chargers",
@@ -242,7 +242,7 @@
       "stadium": "Los Angeles Memorial Coliseum"
     },
     {
-      "name": "San Fransisco 49ers",
+      "name": "San Francisco 49ers",
       "conference": "NFC",
       "division": "West",
       "city": "Santa Clara",
